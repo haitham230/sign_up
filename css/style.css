@@ -215,6 +215,7 @@ color: #777;
   margin: 15px auto 0;
 }
 .landing .btns button{
+  color: black;
   width: fit-content;
   border: none;
   margin-left: 10px;
